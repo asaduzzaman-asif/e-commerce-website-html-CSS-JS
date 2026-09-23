@@ -2,9 +2,10 @@
 
 A modern, responsive, and lightweight E-Commerce storefront UI built with pure **Vanilla JavaScript, HTML5, and CSS3**. Designed for high performance, smooth user interaction, dynamic filtering, sorting, and persistent shopping cart management.
 
-<img width="1366" height="1894" alt="image" src="https://github.com/user-attachments/assets/164a4fd9-8dad-46fe-b589-07dd4eb820d8" />
+<img width="1366" height="1894" alt="image" src="https://github.com/user-attachments/assets/288f0fab-aaea-4ae3-9f75-244328ff9570" />
+
  
-live link:
+live link: https://asaduzzaman-asif.github.io/e-commerce-website-html-CSS-JS/
 ---
 
 ## ✨ Features
